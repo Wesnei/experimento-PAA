@@ -46,8 +46,6 @@ Para garantir rigor estatístico e comparação justa, todos os algoritmos foram
 ## 🔗 Links da Entrega
 
 * 📓 **Notebook Interativo (Google Colab):** `https://colab.research.google.com/drive/1g6nioutGm9QtTUfVk7WuBaUK6GLkVGFH`
-* 🎥 **Apresentação em Vídeo (YouTube):** `[Inserir link do vídeo no YouTube aqui]`
-
 ---
 
 ## 🚀 Como Executar Localmente
