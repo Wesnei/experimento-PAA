@@ -55,7 +55,7 @@ Caso deseje reproduzir os experimentos fora do Google Colab:
 ```bash
 # 1. Clone este repositório
 git clone https://github.com/Wesnei/experimento-PAA
-cd seu-repositorio
+cd experimento-PAA
 
 # 2. Instale as dependências
 pip install numpy matplotlib jupyter
